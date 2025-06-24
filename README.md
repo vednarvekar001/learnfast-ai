@@ -37,18 +37,18 @@
 ## 📦 Getting Started
 
 ### 🔧 Setup Instructions
-# Clone the repository
+ Clone the repository
 git clone https://github.com/vednarvekar001/learnfast-ai.git
 
-# Navigate into the project directory
+ Navigate into the project directory
 cd learnfast-ai
 
-# Install frontend dependencies
+ Install frontend dependencies
 cd client
 npm install
 
-# Install backend dependencies
+ Install backend dependencies
 cd ../server
 npm install
 
-### .env setup in 
+# .env setup in Server folder
