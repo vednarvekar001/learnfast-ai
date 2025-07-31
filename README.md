@@ -1,3 +1,5 @@
+### When Server Starts and Program oprogram opens, in URL add "/chat" to directly head to AI chat. Landing page is not developed !!! 
+
 # 🚀 LearnFast AI
 
 **LearnFast AI** is your personal AI-powered study companion that helps students by:
@@ -61,5 +63,4 @@ OPENROUTER_API_KEY= #your openrouter api keys
 # Start Both FrontEnd & Backend Server
 by command "npm run dev"
 
-### When Server Starts and Program oprogram opens, in URL add "/chat" to directly head to AI chat. Landing page is not developed !!! 
 
