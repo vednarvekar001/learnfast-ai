@@ -52,3 +52,14 @@ cd ../server
 npm install
 
 # .env setup in Server folder
+PORT=4004
+MONGODB_URI= #Mongodb url
+JWT_SECRET= #jwtsecret
+NODE_ENV=development
+OPENROUTER_API_KEY= #your openrouter api keys
+
+# Start Both FrontEnd & Backend Server
+by command "npm run dev"
+
+### When Server Starts and Program oprogram opens, in URL add "/chat" to directly head to AI chat. Landing page is not developed !!! 
+
